@@ -1,4 +1,4 @@
-
+Descript for macOS advanced Effect: subtitle-generator & batch-rendering offers the most advanced Descript for macOS effect, with subtitle-generator and batch-rendering. Ideal for
 
 
 
